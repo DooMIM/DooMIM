@@ -8,10 +8,16 @@
 A cryptocurrency app showing the current prices displaying real time crypto-data. Fetched from coingecko APIs. Top movers section is sorted by the top trending coins in real time. All coins sections is organized by market cap. The app is developed using MVVM architecture and async await to make the network calls.
 
 Dark Appearance 
-<img width="900" alt="DarkMode" src="https://github.com/DooMIM/DooMIM/assets/124182707/a6f20f93-939c-40c3-bed1-d4f8f2a0df42">
+<img width="1350" alt="DarkMode_DetailView" src="https://github.com/DooMIM/DooMIM/assets/124182707/97762ef2-45d2-4aac-b00a-743b03ebc2cc">
 
 Light Appearance
-<img width="900" alt="LightMode" src="https://github.com/DooMIM/DooMIM/assets/124182707/55172f31-82d6-4870-b4e1-b4e1dbd4b4e4">
+<img width="1350" alt="LightMode_DetailView" src="https://github.com/DooMIM/DooMIM/assets/124182707/343dba14-f0a6-4ef0-9d17-b4ac80052405">
+
+## Cookcademy 
+
+<img width="1350" alt="DarkMode_1" src="https://github.com/DooMIM/DooMIM/assets/124182707/3c770d0e-8a8f-40cd-a02f-7eadfd7ce2af">
+
+<img width="1350" alt="DarkMode_2png" src="https://github.com/DooMIM/DooMIM/assets/124182707/af4ccb40-bcb4-46e5-9afb-5d0285178859">
 
 
 <!--
