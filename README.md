@@ -1,5 +1,5 @@
 # Who am I
-👩‍💻 Passionate about coding and innovation, I've honed my skills in Swift, Objective-C and SwiftUI and harnessed the power of Git and GitHub. I'm on a mission to create cutting-edge iOS apps and eager to connect with fellow tech enthusiasts. 📱💻
+👩‍💻 Passionate about coding and innovation, I've honed my skills in Swift, Objective-C and SwiftUI and harnessed the power of Git and GitHub. I'm on a mission to create cutting-edge iOS apps and eager to connect with fellow tech enthusiasts. 📱💻 \#SwiftUi \#MVVM \#async \#await
 
 # Projects 
 
@@ -15,9 +15,17 @@ Light Appearance
 
 ## Cookcademy 
 
+Cookcademy is a project developed as part of the Codecademy iOS career path, implementing the MVVM (Model-View-ViewModel) architecture using SwiftUI. The app allows the users to create new recipes, edit existing ones as well as saving reciepes in the favorites view.  
+
 <img width="1350" alt="DarkMode_1" src="https://github.com/DooMIM/DooMIM/assets/124182707/3c770d0e-8a8f-40cd-a02f-7eadfd7ce2af">
 
 <img width="1350" alt="DarkMode_2png" src="https://github.com/DooMIM/DooMIM/assets/124182707/af4ccb40-bcb4-46e5-9afb-5d0285178859">
+
+## SignUp
+
+User authentication using Firebase and async await 
+<img width="1350" alt="MUT" src="https://github.com/DooMIM/DooMIM/assets/124182707/3541a09d-5d49-4770-9692-f553ded9be3b">
+
 
 
 <!--
